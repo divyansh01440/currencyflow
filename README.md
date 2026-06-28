@@ -1,4 +1,4 @@
-# 🌊 RemitFlow — Cross-Border Micro-Remittance on Stellar
+# 🌊 currencyflow — Cross-Border Micro-Remittance on Stellar
 
 > **Stellar Community Fund Grant Proposal**
 > Solving the $800B+ global remittance market with blockchain technology
